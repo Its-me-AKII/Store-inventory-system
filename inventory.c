@@ -29,6 +29,7 @@ int main(){
     {
         printf("Input Price of items : ",i);
         scanf("%f", &price);
+        
         printf("Input quantity purchased : ",i);
         scanf("%d", &qty);
 
